@@ -1,0 +1,13 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<title>成语</title>
+</head>
+<body>
+<dl>
+	<dt>知无不言，言无不尽</dt>
+	<dd>知道的就说，不知道的就不说</dd>
+	
+</dl>
+</body>
+</html>	

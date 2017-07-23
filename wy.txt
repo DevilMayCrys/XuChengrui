@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>第一个真正的网页</title>
+<link rel="stylesheet" href="html5.css">
+</head>
+
+<body>
+	<header>
+		<h1>英雄联盟</h1>
+		<h2>次级标题<h2>
+		<h4>皮肤半价</h4>
+	</header>
+	<div id ="container">
+		<nav>
+			<h3>传送门</h3>
+			<a href="http://lol.qq.com">官网链接</a>
+			</nav>
+			<section>
+				<article>
+					<header>
+						<h1>这是个标题</h1>
+					</header>
+					<p>其实这里有内容的，只不过傻子看不到</p>
+					<footer>
+						<h2>文章注解</h2>
+					</footer>
+				</article>
+			</section>
+			<aside>
+				<h3>这里还有些内容</h3>
+				<p>这里不知道该写些什么....</p>
+			</aside>
+			<footer>
+				<h2>页脚</h2>
+			</footer>
+ 	</div>
+ </body>
+
+ </html>
