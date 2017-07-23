@@ -1,0 +1,29 @@
+<head>
+<meta  charset="utf-8" />
+<title>登录界面</title>
+</head>
+<form id="form1" method="post" action="">
+	<p>账号：<input type="text" /></p>
+	<p>密码：<input type="password"   /></p>
+	<p>大区：<input type="checkbox" />电信
+			 <input type="checkbox" />网通
+	</p>
+	<p>服务器：
+	<input name="1" type="radio" value="" />艾欧尼亚
+	<input name="2" type="radio" value="" />比尔吉沃特
+	</p>
+	<p>选择位置：
+		<select>
+		<option>上路</option>
+		<option>打野</option>
+		<option>中路</option>
+		<option>ADC</option>
+		<option>辅助</option>
+		</select>
+	</p>
+	<p><a href="http://lol.qq.com/">登陆</a></p>
+</form>
+	
+<body>
+</body>
+</html>
