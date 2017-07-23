@@ -1,0 +1,13 @@
+<html>
+<head>
+<meta charset="utf-8" />
+<title>~~~</title>
+</head>
+
+<body>
+	<a href="#b">跳转到底部</a>
+	<div id ="white" style="height:2000px;border:solid 1px red; "></div>
+	<span id="b"></span>
+</body>
+
+</html>
