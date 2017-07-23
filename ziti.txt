@@ -1,0 +1,16 @@
+<html>
+<head>
+<meta charset="utf-8" />
+<title>test</title>
+</head>
+
+<body>
+	<h1>biaoti</h1>
+	<small>small</small>
+	<big>big</big>
+	<blink>blink</blink>
+	<b>加粗</b>
+	<i>倾斜</i>
+</body>
+
+</html>
