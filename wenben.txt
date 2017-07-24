@@ -1,0 +1,10 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+</head>
+<body id="mybody" lang="ca">
+		<img src="C:\Users\Devil May Cry\Desktop\proxy.jpg" title="帅哥"  alt="加载失败" longdesc="登兹楼以四望兮，聊暇日以销忧。览斯宇之所处兮，实显敞而寡仇。挟清漳之通浦兮， 倚曲沮之长洲。背坟衍之广陆兮，临皋隰之沃流。北弥陶牧，西接昭邱。华实蔽野，黍稷盈 畴。虽信美而非吾土兮，曾何足以少留" />
+</body>
+</html>
