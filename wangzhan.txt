@@ -1,0 +1,43 @@
+!DOCTYPE HTML>
+<html>
+<head>
+<meta  http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+</head>
+<header>
+<h1>网页标题</h1>
+<h2>网页次级标题</h2>
+<link rel="stylesheet" href="html5.css">
+</header>
+
+<body>
+<div  id="div">
+	<nav>
+    <h3>导航</h3>
+    <a href="http://www.baidu.com">链接一</a>
+    <a href="http://www.qq.com">链接二</a>
+    <a href="http://www.2345.com">链接三</a>
+    </nav>
+	<section>
+    	<article>
+        	<header>
+  				<h3>biaoti</h3>
+             </header>
+            <p>文章内容</p>
+            <br >
+            <footer>
+            <p>页脚</p>
+            </footer>
+        </article>
+      </section>    
+      <aside>
+      	<h3>相关内容</h3>
+        <p>..............</p>
+       <footer>
+       <p>页脚</p>
+       </foooter>
+      </aside>
+      </div>
+            
+</body>
+</html>
