@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+<h1>解一元方程</h1>
+<p>解法有四种:</p>
+<ul>
+	<li>直接开平方</li>
+    <li>配方法</li>
+    <li>公式法</li>
+    <li>分解因式</li>
+</ul>
+	<li>直接开平方</li>
+    <li>配方法</li>
+    <li>公式法</li>
+    <li>分解因式</li>
+<ul>
+	<ol>直接开平方</ol>
+    <ol>配方法</ol>
+    <ol>公式法</ol>
+    <ol>分解因式</ol>
+</ul>
+	<ol>直接开平方</ol>
+    <ol>配方法</ol>
+    <ol>公式法</ol>
+    <ol>分解因式</ol>
+</body>
+</html>
