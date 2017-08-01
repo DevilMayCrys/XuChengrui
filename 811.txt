@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+</head>
+<body>
+	<nav>
+		<ul>
+            <li><a href="https://www.2345.com/">首页</a></li>
+            <li><a href="https://github.com/DevilMayCrys">图书 </a></li>
+            <li><a href="http://www.duotv.cc/guocanju/78950/">视频</a></li>
+        </ul>
+	</nav>
+
+	<article>
+    	<header>
+        	<h1>凉凉天意。。。。。。。。。。。。。。。</h1>
+			<nav>
+           			<ul>
+            <li><a href="https://www.2345.com/">dfg</a></li>
+            <li><a href="https://github.com/DevilMayCrys">asd </a></li>
+            <li><a href="http://www.duotv.cc/guocanju/78950/">qwe</a></li>
+       				 </ul>
+          </nav> 
+        </header>
+        <section id="asd" >
+        	<p>86532514</p>
+         </section>
+            
+        <section id ="qwda">
+      		<p>sadfzxc</p>
+          </section>
+          
+         <footer>
+         	<p><asdf</p>
+         </footer>
+         
+     </article>
+         
+		
+	<footer>
+		<p><zvdfhyb/p>
+	</footer>
+</body>
+</html>
