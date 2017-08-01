@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+</head>
+<body>
+
+		<form action="demo_form.php" method="get">
+      
+       	输入邮箱地址<input type="email" value="1033251240@qq.com" /><br>
+        <input type="submit" /><br>
+        
+        	输入网站地址<input type="url" value="http://www.baidu.com" /><br>
+        <input type="submit" /><br>
+        
+        	输入数字<input type="number" min="1" max="20" step="5" value="5" /><br />
+        <input type="submit" /><br>
+       
+              	输入数字<input type="range" min="1" max="30" step="5" value="5" /><br />
+        <input type="submit" /><br>
+        
+               	输入日期<input type="date" value="1998.03.24" /><br />
+        <input type="submit" /><br>
+        
+               	输入年份周数<input type="week" /><br />
+        <input type="submit" /><br>
+        
+               	输入时间<input type="time" value="13:21" /><br />
+        <input type="submit" /><br>
+        
+               	输入日期时间<input type="datetime-local" value="5" /><br />
+        <input type="submit" /><br>
+              	
+                输入关键字<input type="search" value=" 百度" /><br />
+        <input type="submit" value="Go" /><br>
+        	
+                 选择颜色<input type="color"  /><br />
+        <input type="submit" /><br>
+        
+              	输入手机号码<input type="tel" value="15684175530" /><br />
+        <input type="submit" /><br>
+        
+        
+        </form>
+
+
+</body>
+</html>
+
