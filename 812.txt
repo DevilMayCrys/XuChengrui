@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+</head>
+<body>
+
+		<form action="demo_form.php" method="get">
+      
+       	输入邮箱地址<input type="email" value="1033251240@qq.com" /><br>
+        <input type="submit" /><br>
+        
+        	输入网站地址<input type="url" value="http://www.baidu.com" /><br>
+        <input type="submit" /><br>
+        
+        	输入数字<input type="number" min="1" max="20" step="5" value="5" /><br />
+        <input type="submit" />
+       
+        </form>
+
+
+</body>
+</html>
