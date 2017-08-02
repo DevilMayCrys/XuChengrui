@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+</head>
+
+<body>
+
+	<canvas id="name" width="200" height="200" >
+		
+	</canvas>
+	<script type="text/javascript">
+	
+	var canvas=document.getElementById("name");
+	if (canvas.getContext){
+		alert("你的浏览器支持Canvas！");
+	}else{
+		alert("你的浏览器不支持Canvas");
+	}
+		
+	</script>
+	
+</body>
+</html>
