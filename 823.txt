@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+<style type="text/css">
+	
+	li+li{
+		
+		font-weight: bold;
+		font-family:"黑体";
+		font-size: 14px;
+		color: crimson;
+	}
+	
+	</style>
+
+</head>
+
+<body>
+
+<div> 
+	<ul>
+		<li>asdad</li>
+		<li>asfdcxcx</li>
+		<li>qwerf</li>
+		
+	</ul>
+	<ol>
+		<li>fdcx</li>
+		<li>vcb</li>
+		<li>htrhtghbfg</li>
+	</ol>
+	
+</div>
+	
+</body>
+</html>
+
